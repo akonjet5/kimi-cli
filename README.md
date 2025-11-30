@@ -112,7 +112,7 @@ Kimi CLI supports the well-established MCP config convention. For example:
 ```json
 {
   "mcpServers": {
-    "context7": {
+ pnpm install   "context7": {
       "url": "https://mcp.context7.com/mcp",
       "headers": {
         "CONTEXT7_API_KEY": "YOUR_API_KEY"
